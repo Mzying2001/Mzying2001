@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mzying2001&layout=compact)
 
 ## Total Visits
 
