@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Welcome ♪(^∇^*)</h1>
-
-![](https://github-readme-stats.vercel.app/api?username=Mzying2001&show_icons=true)
+<h1 align="center">
+  Welcome ♪(^∇^*)
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mzying2001&show_icons=true" />
+</h1>
 
 ## Languages
 
